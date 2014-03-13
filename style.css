@@ -15,3 +15,7 @@
   width:30em;
   float:left;
 }
+
+html, html a {
+    -webkit-font-smoothing: antialiased !important;
+}
