@@ -13,4 +13,5 @@ div{
   height: 40em;
   width: 3em;
   background-color: blue;
+  float: left;
 }
