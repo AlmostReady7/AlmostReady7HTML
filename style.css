@@ -33,3 +33,9 @@ a{
   background-color:blue;
   font-family:"HelveticaNeue";
 }
+
+#Title{
+  color:white;
+  font-family:"HelveticaNeue";
+  font-weight:lighter;
+}
