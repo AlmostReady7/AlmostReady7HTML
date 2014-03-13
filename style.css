@@ -22,5 +22,5 @@
   font-size:40px;
   font-family:"HelveticaNeue";
   color:blue;
-  opacity:1;
+  z-index:1;
 }
