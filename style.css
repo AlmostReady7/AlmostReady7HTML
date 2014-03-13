@@ -1,42 +1,13 @@
-*{
-  background-color:#171717;
-}
-
-#test{
-  color:white;
-  text-align:center;
-  font-family:"HelveticaNeue";
-  font-weight:100;
-  font-size:40px;
-}
-
-#test1{
-  background-color:blue;
-  color:white;
-  height:60em;
-  width:30em;
-  float:left;
-}
-
-#jerry{
-  background-color:blue;
-  font-size:40px;
-  font-family:"HelveticaNeue";
-  color:white;
-  z-index:1;
-  text-decoration:none;
-}
-
-a{
-  text-decoration:none;
-  color:green;
-  background-color:blue;
-  font-family:"HelveticaNeue";
-}
-
 #Title{
   color:white;
   font-family:"HelveticaNeue";
   font-weight:lighter;
+  text-align:center;
+}
+
+#lastfm{
+  text-decoration:none;
+  color:white;
+  font-family:"HelveticaNeue";
   text-align:center;
 }
