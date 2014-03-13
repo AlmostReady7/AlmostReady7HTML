@@ -13,7 +13,5 @@
   background-color:blue;
   height:60em;
   width:30em;
-  float:left;
-  padding:0;
-  margin:0;
+  float:left,top;
 }
