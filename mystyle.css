@@ -64,3 +64,9 @@
   width:100%;
   height:30px;
 }
+
+.contentbox img{
+  border-radius:20px;
+  height:40px;
+  width:40px;
+}
