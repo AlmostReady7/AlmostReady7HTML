@@ -65,8 +65,14 @@
   height:30px;
 }
 
-img{
+.content img{
   border-radius:100px;
   height:200px;
   width:200px;
+}
+
+.content p{
+  text-align:right;
+  color:black;
+  font-family:"Helvetica";
 }
