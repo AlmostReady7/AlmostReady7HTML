@@ -1,0 +1,22 @@
+*{
+  background-color:#D15C2C;
+}
+
+img{
+  border:3px solid black;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#title{
+  text-align:center;
+  font-size:60px;
+  color:white;
+}
+
+#text{
+  text-align:center;
+  font-size:36px;
+  color:white;
+}
