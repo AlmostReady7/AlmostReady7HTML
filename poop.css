@@ -4,10 +4,12 @@
 
 #title{
   font-size:60px;
+  text-align:center;
 }
 
 p{
-  font-size:48px;
+  font-size:36px;
   color:white;
   font-family:Verdana;
+  text-align:center;
 }
