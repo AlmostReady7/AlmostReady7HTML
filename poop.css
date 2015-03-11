@@ -2,6 +2,10 @@
   background-color:black;
 }
 
+#title{
+  font-size:60px;
+}
+
 p{
   font-size:48px;
   color:white;
