@@ -1,0 +1,18 @@
+#title{
+	font-size:48px;
+	text-align:center;
+}
+
+#ing{
+	font-size:36px;
+	text-align:left;
+}
+
+ul{
+	text-align:left;
+	display:inline-block;
+}
+
+img{
+	float:right;
+}
