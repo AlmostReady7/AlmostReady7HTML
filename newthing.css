@@ -1,0 +1,68 @@
+body {
+	margin:0;
+	padding:0;
+	background-color:lightyellow;
+}
+
+.header {
+	background-image:url("http://web-vassets.ea.com/Assets/Richmedia/Image/Screenshots/beatl-rockband-xbox360-ss-1.jpg?cb=1412975079");
+	width:100%;
+	height:720px;
+	background-position:top center;
+	background-attachment:fixed;
+	background-size:contain;
+}
+
+.poopy{
+	padding-top:720;
+}
+
+.blah {
+	width:50%;
+	margin:auto;
+	text-align:center;
+	font-family:"Helvetica Neue";
+}
+
+#fart {
+	display:table-cell;
+	height:100%;
+	width:100%;
+	vertical-align:middle;
+	margin:auto;
+}
+
+#thingy {
+	color:white;
+	vertical-align:middle;
+	line-height:360px;
+	font-family:Helvetica;
+	font-size:48px;
+}
+
+#clap {
+	display:table;
+	width:100%;
+	height:100%;
+	vertical-align:middle;
+	text-align:center;
+	margin:auto;
+}
+
+#pee {
+	display:table;
+	width:50%;
+	height:50%;
+	vertical-align:middle;
+	text-align:center;
+	margin:auto;
+	background-color:rgba(0,0,0,0.7);
+	border-radius:5%;
+}
+
+#lick {
+	display:table-cell;
+	vertical-align:middle;
+	height:100%;
+	width:100%;
+}
